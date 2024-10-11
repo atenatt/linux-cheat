@@ -1,0 +1,3 @@
+[DEFAULT]
+log_dir=logs
+main_log_file=main.log
